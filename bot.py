@@ -27,6 +27,7 @@ def frango(mensagem):
 # Seção comando selecionado: linguiça
 @bot.message_handler(commands=["linguica"])
 def linguica(mensagem):
+    # Mensagem que o bot vai enviar para o usuário      
     bot.send_message(mensagem.chat.id, "DEMOROU PARCEIRO, a linguiça acabou")
 
 # Seção comando selecionado: opção1
