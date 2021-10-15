@@ -30,6 +30,7 @@ def linguica(mensagem):
 # Seção comando selecionado: opção1
 @bot.message_handler(commands=["opcao1"])
 def opcao1(mensagem):
+    #Texto que o bot vai enviar parar o usuário     
     texto = """
     O que você quer? (Clique em uma opção)
     /carne Carne
