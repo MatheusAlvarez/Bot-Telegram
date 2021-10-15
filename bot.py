@@ -1,5 +1,6 @@
 # CÓDIGO BOT SIMPLES DO TELEGRAM
 # FEITO POR: MATHEUS MAIA ALVAREZ
+# GITHUB: https://github.com/MatheusAlvarez
 
 
 #Biblioteca que ajuda a gente a criar um bot (PRECISA INSTALAR O "pytelegrambotapi")
