@@ -1,4 +1,8 @@
-# Biblioteca que ajuda a gente a criar um bot (precisa installar pytelegrambotapi)
+# CÓDIGO BOT SIMPLES DO TELEGRAM
+# FEITO POR: MATHEUS MAIA ALVAREZ
+
+
+#Biblioteca que ajuda a gente a criar um bot (PRECISA INSTALAR O "pytelegrambotapi")
 import telebot
 
 # Chave API que o BotFather do telegram te envia
