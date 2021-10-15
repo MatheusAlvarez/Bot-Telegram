@@ -15,6 +15,7 @@ bot = telebot.TeleBot(cv_api)
 # Seção comando selecionado: carne
 @bot.message_handler(commands=["carne"])
 def carne(mensagem):
+    # Mensagem que o bot vai enviar para o usuário      
     bot.send_message(mensagem.chat.id, "SÓ TEM PICANHA!: Tempo de espera em 20min")
 
 # Seção comando selecionado: frango
