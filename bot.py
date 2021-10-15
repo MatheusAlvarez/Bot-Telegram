@@ -43,11 +43,13 @@ def opcao1(mensagem):
 # Seção comando selecionado: opção2
 @bot.message_handler(commands=["opcao2"])
 def opcao2(mensagem):
+    # Mensagem que o bot vai enviar para o usuário   
     bot.send_message(mensagem.chat.id, "Para enviar uma reclamação, mande um e-mail para contato@geek.com")
 
 # Seção comando selecionado: opção3
 @bot.message_handler(commands=["opcao3"])
 def opcao3(mensagem):
+    # Mensagem que o bot vai enviar para o usuário   
     bot.send_message(mensagem.chat.id, "Obrigado! ❤")
 
 
@@ -57,6 +59,7 @@ def verificar(mensagem):
 
 @bot.message_handler(func=verificar)
 def responder(mensagem):
+    # Mensagem que o bot vai enviar para o usuário   
     texto = """
     Escolha uma opção para continuar (Clique no item):
      /opcao1 Ver o nosso cardápio
