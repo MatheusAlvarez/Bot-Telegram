@@ -21,6 +21,7 @@ def carne(mensagem):
 # Seção comando selecionado: frango
 @bot.message_handler(commands=["frango"])
 def frango(mensagem):
+    # Mensagem que o bot vai enviar para o usuário   
     bot.send_message(mensagem.chat.id, "MELHOR FRANGO DA CIDADE: Tempo de espera em 20min")
 
 # Seção comando selecionado: linguiça
@@ -31,7 +32,7 @@ def linguica(mensagem):
 # Seção comando selecionado: opção1
 @bot.message_handler(commands=["opcao1"])
 def opcao1(mensagem):
-    #Texto que o bot vai enviar parar o usuário     
+    # Mensagem que o bot vai enviar para o usuário     
     texto = """
     O que você quer? (Clique em uma opção)
     /carne Carne
