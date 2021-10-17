@@ -1,7 +1,9 @@
-# CÓDIGO SIMPLES BOT DO TELEGRAM
-# FEITO POR: MATHEUS MAIA ALVAREZ
-# GITHUB: https://github.com/MatheusAlvarez
-# CONTATO: (11)99423-7418
+# |=============================================|
+# | CÓDIGO SIMPLES BOT DO TELEGRAM              |
+# | FEITO POR: MATHEUS MAIA ALVAREZ             |
+# | GITHUB: https://github.com/MatheusAlvarez   |
+# | CONTATO: (11)99423-7418                     |
+# ==============================================|
 
 
 #Biblioteca que ajuda a gente a criar um bot (PRECISA INSTALAR O "pytelegrambotapi")
