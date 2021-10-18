@@ -1,5 +1,6 @@
 # |=============================================|
-# | CÓDIGO SIMPLES BOT DO TELEGRAM              | 
+# |               CÓDIGO SIMPLES                | 
+# |=============================================|
 # | PROPOSTA : BOT DO TELEGRAM                  |
 # | FEITO POR: MATHEUS MAIA ALVAREZ             |
 # | GITHUB: https://github.com/MatheusAlvarez   |
