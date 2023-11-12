@@ -23,6 +23,8 @@
 Bot do Telegram desenvolvido em Python
 
 A ideia do projeto foi desenvolver um bot do Telegram para implementarmos em nosso site de restaurante.
+
+
 ---
 
 ## ⚙️ Funcionalidades
